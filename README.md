@@ -10,9 +10,9 @@ Features:
 - 4 Encoders
 - LED Feedback
 
-- Additional PLAYMODE: Play from Loop-Start
+- Additional PLAYMODE: Play at Loop-Start
 - Timeline scrolling by full Bars
-- Track scrolling with Enocder
+- Scrolling Tracks with Enocder or Button
 - All knobs turn LED's on&off
 
 ## ToDo
