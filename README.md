@@ -13,6 +13,8 @@ Features:
 - Additional PLAYMODE: Play at Loop-Start
 - Timeline scrolling by full Bars
 - Scrolling Tracks with Encoder or Button
+- turn Plugins ON/OFF (great for A/B testing)
+- Next/Prev. cue marker
 - All knobs turn LED's on&off
 
 ## ToDo
