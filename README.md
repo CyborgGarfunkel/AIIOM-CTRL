@@ -12,7 +12,7 @@ Features:
 
 - Additional PLAYMODE: Play at Loop-Start
 - Timeline scrolling by full Bars
-- Scrolling Tracks with Enocder or Button
+- Scrolling Tracks with Enocoder or Button
 - All knobs turn LED's on&off
 
 ## ToDo
